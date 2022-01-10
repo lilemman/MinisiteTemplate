@@ -1,0 +1,2 @@
+# MinisiteTemplate
+JS site template 
